@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TCP_test2</string>
+    <string name="str_main_heading1">Gib deine Matrikelnummer ein!</string>
+    <string name="str_main_btn_send">Send</string>
+</resources>
